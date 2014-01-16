@@ -3,6 +3,7 @@ draggable-tree
 
 Dependencies:
 
+- jQuery UI
 - https://github.com/mjsarfatti/nestedSortable
 
 JSFiddle at http://jsfiddle.net/blaha/BFNnr/
