@@ -1,6 +1,10 @@
 draggable-tree
 ==============
 
+Dependencies:
+
+- https://github.com/mjsarfatti/nestedSortable
+
 JSFiddle at http://jsfiddle.net/blaha/BFNnr/
 
 AngularJS draggable tree based on http://jsfiddle.net/michieljoris/VmtfR/
